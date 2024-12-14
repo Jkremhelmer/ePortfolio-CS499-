@@ -40,5 +40,8 @@ My artifact comes from CS330: Comp Graphic and Visualization. It is a simple 3D 
 ## [Enhancement One: Software Design and Engineering] (https://github.com/Jkremhelmer/ePortfolio-CS499-/tree/main/Enhancement%201)
 The artifact that I am using is a scene from CS330. It is a basic 3D scene rendered from a 2D image. The initial code was created by Brian Battersby – SNHU Instructor, Nov 1st, 2023. My work with this code was completed Oct 19th, 2024. I am including this artifact in my ePortfolio, as this is what I would like to do with my CS knowledge. I would like to create 3D renderings for people to enjoy. The components that I will be using to showcase my abilities are in the SceneManager.cpp. This is where the meat and potatoes are for the scene. I have improved efficiency in the code, removed redundant coding, corrected errors in some of the codework, as well as commented on the sections of improvement. 
 
-## [Enhancement Two: Algorithms and Data Structure] ()
+## [Enhancement Two: Algorithms and Data Structure] (https://github.com/Jkremhelmer/ePortfolio-CS499-/tree/main/Enhancement%202)
+I am including this artifact in my ePortfolio, as this is what I would like to do with my CS knowledge. I would like to create 3D renderings for people to enjoy. The components that I will be using to showcase my abilities are in the SceneManager.cpp, MainCode.cpp, and ViewManager.cpp. This is where the meat and potatoes are for the scene. I have improved efficiency in the code, removed redundant coding, corrected errors in some of the codework, as well as commented on the sections of improvement. 
+
+## [Enhancement Three: Databases] ()
 
